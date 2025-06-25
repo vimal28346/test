@@ -1,4 +1,3 @@
 for i in range(0,10):
 	print(i)
-print("changed in github")
-//to check fetch and merge seperately
+print("This is not a C program")
